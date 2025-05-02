@@ -1,0 +1,14 @@
+// File: .gitignore
+node_modules/
+build/
+dist/
+.env
+values.secret.yaml
+*.log
+.DS_Store
+*.zip
+.dockerignore
+rendered.yaml
+cert-manager-crds.yaml
+letsencrypt.yaml
+scale-aks.sh
